@@ -1,0 +1,36 @@
+body {
+  background-image: url(../image/library-book-bookshelf-read.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar {
+  margin-bottom: 40px;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.card-header {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.form-label {
+  font-weight: bold;
+  color: #343a40;
+}
+
+.btn-success {
+  background-color: #593d26;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #593d26ba;
+}
+
+.card-header{
+background-color: #dcb78fc5;
+}
